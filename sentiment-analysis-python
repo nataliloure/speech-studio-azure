@@ -1,0 +1,23 @@
+pip install textblob
+from textblob import TextBlob
+
+# Texto para análise
+texto = "Eu estou muito feliz hoje! Está um lindo dia de sol."
+
+# Criar um objeto TextBlob
+blob = TextBlob(texto)
+
+# Obter o sentimento
+sentimento = blob.sentiment
+
+# Imprimir o sentimento
+print("Polaridade do Sentimento:", sentimento.polarity)
+print("Subjetividade do Sentimento:", sentimento.subjectivity)
+
+# Interpretar o sentimento
+if sentimento.polarity > 0:
+    print("O texto é positivo.")
+elif sentimento.polarity == 0:
+    print("O texto é neutro.")
+else:
+    print("O texto é negativo.")
