@@ -17,3 +17,8 @@ give me love a bad name
 Twitte de referência:
 https://twitter.com/HamelHusain/status/1757846000046346416
 
+| Documentação | LINK | 
+| -------------| ---- |
+|Create an Azure AI Speech resource | [Link](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/09-speech.html) |
+| Analyze text with Language Studio | [Link](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/06-text-analysis.html) | 
+
