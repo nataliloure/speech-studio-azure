@@ -1,0 +1,31 @@
+{
+    "documents": [
+        {
+            "id": "id__642",
+            "sentiment": "positive",
+            "confidenceScores": {
+                "positive": 0.57,
+                "neutral": 0.4,
+                "negative": 0.03
+            },
+            "sentences": [
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.57,
+                        "neutral": 0.4,
+                        "negative": 0.03
+                    },
+                    "offset": 0,
+                    "length": 92,
+                    "text": "I can describe my experience of this game in two words: \"TECHNOLOGY RECHARGED!\" #bestdayever",
+                    "targets": [],
+                    "assessments": []
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2022-11-01"
+}
